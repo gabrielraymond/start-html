@@ -1,0 +1,41 @@
+HTML = HyperText Markup Language
+
+
+<h1> ... </h1>			// h1 is Heading tag, h1-h6
+
+<p> ... </p>			// <p> is paragraph tag
+
+<br> 				// <br> is line break tag. don't have closing tag to use
+
+<hr>, <hr size="3" noshade>	// <hr> is a thematic break as a horizontal.
+
+<center>...</center>		// text-align center thorought
+or use {text-align: center;}	// just for one tag
+
+Attributes:
+align:	
+	Sets the alignment of the rule on the page. If no value is specified, the default value is left
+color:
+	Sets the color of the rule through color name or hexadecimal value.
+noshade:
+	Sets the rule to have no shading.
+size:
+	Sets the height, in pixel, of the rule.
+width:
+	Sets the length of the rule on the page through a pixel or percentage value.
+
+
+<!-- --> 			// Comment
+
+<em>...</em>			//Emphesis or make italic.
+
+image element:
+<img src='angela.png>		// for input image to website. You can use image from your computer or use image 				from another web.
+
+<a href="https://.."> ... </a>	// for Link
+
+
+
+ 
+
+
